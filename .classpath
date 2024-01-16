@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="node_modules/style-dictionary/examples/advanced/create-react-native-app/android/app/src/debug/java"/>
+	<classpathentry kind="src" path="node_modules/style-dictionary/examples/advanced/create-react-native-app/android/app/src/main/java"/>
+	<classpathentry kind="src" path="node_modules/style-dictionary/examples/complete/android/demo/src/androidTest/java"/>
+	<classpathentry kind="src" path="node_modules/style-dictionary/examples/complete/android/demo/src/test/java"/>
+	<classpathentry kind="src" path="node_modules/style-dictionary/examples/complete/android/styledictionary/src/androidTest/java"/>
+	<classpathentry kind="src" path="node_modules/style-dictionary/examples/complete/android/styledictionary/src/test/java"/>
+	<classpathentry kind="lib" path="node_modules/style-dictionary/examples/advanced/create-react-native-app/android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="node_modules/style-dictionary/examples/complete/android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
